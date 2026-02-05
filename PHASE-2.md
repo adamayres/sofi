@@ -11,13 +11,13 @@
 **Requirements:**
 
 1. **Table** showing all components with relevant columns
-   - What columns make sense? (Let candidate propose, then confirm/adjust)
+   - What columns make sense?
 
 2. **Status Filter** - Way to filter by migration status
-   - How should the filter work? Tabs? Dropdown? (Candidate decides)
+   - How should the filter work? Tabs? Dropdown?
 
 3. **Row Interaction** - Clicking a row should do something useful
-   - What happens on click? (Let candidate propose)
+   - What happens on click?
 
 **Wireframe:**
 
