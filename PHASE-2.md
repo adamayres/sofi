@@ -35,23 +35,3 @@
 ```
 
 ---
-
-## Interviewer Notes
-
-**Questions to leave intentionally ambiguous:**
-
-- Which columns to show (let them explore the API)
-- How to display status (badge? text? color?)
-- Whether to show blocker count or blocker details
-- Tab order/naming
-
-**Good signs:**
-
-- Candidate explores `/api/components` to see available fields
-- Asks about user needs: "Who's looking at this? What do they care about?"
-- Proposes a solution and asks for feedback
-
-**If they just build without asking:**
-
-- That's fine, but note it for scoring
-- During discussion, ask "How did you decide which columns to include?"
