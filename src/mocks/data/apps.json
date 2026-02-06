@@ -1,0 +1,207 @@
+[
+  {
+    "id": "app-001",
+    "name": "member-dashboard",
+    "team": "Growth",
+    "dsVersion": "2.1.0",
+    "migrationProgress": 82,
+    "blockers": ["Waiting on DataTable v2 for portfolio view"],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 45 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 28 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 32 },
+      { "componentId": "select-005", "version": "v2", "usageCount": 15 },
+      { "componentId": "table-006", "version": "v1", "usageCount": 8 },
+      { "componentId": "tabs-007", "version": "v2", "usageCount": 12 },
+      { "componentId": "badge-008", "version": "v2", "usageCount": 24 },
+      { "componentId": "avatar-011", "version": "v2", "usageCount": 6 },
+      { "componentId": "skeleton-017", "version": "v2", "usageCount": 18 }
+    ]
+  },
+  {
+    "id": "app-002",
+    "name": "onboarding-flow",
+    "team": "Acquisition",
+    "dsVersion": "1.4.2",
+    "migrationProgress": 41,
+    "blockers": ["Modal v2 accessibility issues blocking upgrade", "Team capacity limited until Q2"],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v1", "usageCount": 38 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 15 },
+      { "componentId": "modal-003", "version": "v1", "usageCount": 12 },
+      { "componentId": "input-004", "version": "v1", "usageCount": 45 },
+      { "componentId": "select-005", "version": "v1", "usageCount": 22 },
+      { "componentId": "checkbox-013", "version": "v1", "usageCount": 18 },
+      { "componentId": "progress-016", "version": "v2", "usageCount": 8 }
+    ]
+  },
+  {
+    "id": "app-003",
+    "name": "loan-application",
+    "team": "Lending",
+    "dsVersion": "2.0.0",
+    "migrationProgress": 100,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 52 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 20 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 68 },
+      { "componentId": "select-005", "version": "v2", "usageCount": 25 },
+      { "componentId": "checkbox-013", "version": "v2", "usageCount": 14 },
+      { "componentId": "radio-014", "version": "v2", "usageCount": 10 },
+      { "componentId": "progress-016", "version": "v2", "usageCount": 6 },
+      { "componentId": "alert-009", "version": "v2", "usageCount": 8 }
+    ]
+  },
+  {
+    "id": "app-004",
+    "name": "invest-portal",
+    "team": "Invest",
+    "dsVersion": "1.8.0",
+    "migrationProgress": 65,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 34 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 42 },
+      { "componentId": "table-006", "version": "v1", "usageCount": 15 },
+      { "componentId": "tabs-007", "version": "v2", "usageCount": 8 },
+      { "componentId": "badge-008", "version": "v2", "usageCount": 28 },
+      { "componentId": "tooltip-010", "version": "v1", "usageCount": 22 },
+      { "componentId": "dropdown-012", "version": "v1", "usageCount": 12 },
+      { "componentId": "skeleton-017", "version": "v2", "usageCount": 16 }
+    ]
+  },
+  {
+    "id": "app-005",
+    "name": "credit-card-hub",
+    "team": "Credit",
+    "dsVersion": "2.0.1",
+    "migrationProgress": 88,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 28 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 35 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 18 },
+      { "componentId": "alert-009", "version": "v2", "usageCount": 12 },
+      { "componentId": "badge-008", "version": "v2", "usageCount": 20 },
+      { "componentId": "progress-016", "version": "v2", "usageCount": 10 },
+      { "componentId": "toast-019", "version": "v1", "usageCount": 6 }
+    ]
+  },
+  {
+    "id": "app-006",
+    "name": "banking-app",
+    "team": "Banking",
+    "dsVersion": "2.1.0",
+    "migrationProgress": 95,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 62 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 48 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 55 },
+      { "componentId": "select-005", "version": "v2", "usageCount": 20 },
+      { "componentId": "modal-003", "version": "v1", "usageCount": 8 },
+      { "componentId": "tabs-007", "version": "v2", "usageCount": 14 },
+      { "componentId": "alert-009", "version": "v2", "usageCount": 16 },
+      { "componentId": "avatar-011", "version": "v2", "usageCount": 10 },
+      { "componentId": "breadcrumb-021", "version": "v2", "usageCount": 6 }
+    ]
+  },
+  {
+    "id": "app-007",
+    "name": "admin-console",
+    "team": "Platform",
+    "dsVersion": "1.6.0",
+    "migrationProgress": 35,
+    "blockers": ["Internal tool - lower priority", "Heavy DataTable usage blocking upgrade"],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v1", "usageCount": 85 },
+      { "componentId": "card-002", "version": "v1", "usageCount": 32 },
+      { "componentId": "table-006", "version": "v1", "usageCount": 45 },
+      { "componentId": "input-004", "version": "v1", "usageCount": 60 },
+      { "componentId": "select-005", "version": "v1", "usageCount": 35 },
+      { "componentId": "modal-003", "version": "v1", "usageCount": 22 },
+      { "componentId": "tabs-007", "version": "v2", "usageCount": 10 },
+      { "componentId": "pagination-022", "version": "v1", "usageCount": 12 }
+    ]
+  },
+  {
+    "id": "app-008",
+    "name": "relay-marketing",
+    "team": "Growth",
+    "dsVersion": "2.0.0",
+    "migrationProgress": 100,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 24 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 18 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 12 },
+      { "componentId": "badge-008", "version": "v2", "usageCount": 8 }
+    ]
+  },
+  {
+    "id": "app-009",
+    "name": "insurance-portal",
+    "team": "Protect",
+    "dsVersion": "1.9.0",
+    "migrationProgress": 58,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 30 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 25 },
+      { "componentId": "input-004", "version": "v1", "usageCount": 42 },
+      { "componentId": "select-005", "version": "v1", "usageCount": 18 },
+      { "componentId": "checkbox-013", "version": "v2", "usageCount": 15 },
+      { "componentId": "accordion-020", "version": "v1", "usageCount": 8 },
+      { "componentId": "alert-009", "version": "v2", "usageCount": 10 }
+    ]
+  },
+  {
+    "id": "app-010",
+    "name": "mobile-webview",
+    "team": "Mobile",
+    "dsVersion": "2.0.0",
+    "migrationProgress": 78,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 40 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 22 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 28 },
+      { "componentId": "modal-003", "version": "v1", "usageCount": 6 },
+      { "componentId": "skeleton-017", "version": "v2", "usageCount": 20 },
+      { "componentId": "spinner-018", "version": "v1", "usageCount": 4 }
+    ]
+  },
+  {
+    "id": "app-011",
+    "name": "help-center",
+    "team": "Support",
+    "dsVersion": "1.5.0",
+    "migrationProgress": 22,
+    "blockers": ["Understaffed team", "Waiting on Accordion v2"],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v1", "usageCount": 15 },
+      { "componentId": "card-002", "version": "v1", "usageCount": 28 },
+      { "componentId": "accordion-020", "version": "v1", "usageCount": 35 },
+      { "componentId": "input-004", "version": "v1", "usageCount": 8 },
+      { "componentId": "breadcrumb-021", "version": "v2", "usageCount": 4 }
+    ]
+  },
+  {
+    "id": "app-012",
+    "name": "settings-hub",
+    "team": "Platform",
+    "dsVersion": "2.0.0",
+    "migrationProgress": 72,
+    "blockers": [],
+    "componentUsage": [
+      { "componentId": "btn-001", "version": "v2", "usageCount": 35 },
+      { "componentId": "card-002", "version": "v2", "usageCount": 20 },
+      { "componentId": "input-004", "version": "v2", "usageCount": 25 },
+      { "componentId": "select-005", "version": "v2", "usageCount": 18 },
+      { "componentId": "switch-015", "version": "v2", "usageCount": 22 },
+      { "componentId": "tabs-007", "version": "v1", "usageCount": 6 },
+      { "componentId": "divider-024", "version": "v1", "usageCount": 12 }
+    ]
+  }
+]
